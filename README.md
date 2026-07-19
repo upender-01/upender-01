@@ -40,9 +40,32 @@ Building scalable web applications with modern technologies while solving comple
 
 🚀 Currently
 
+
 - Building scalable MERN applications
 - Practicing DSA every day
 - Preparing for Software Engineering roles
+## 🌐 Bhera Society Website
+### 🚀 Core Contributor (Frontend & Backend)
+
+Developed and currently maintain the official **Bhera Society** website, a production-ready MERN Stack application serving a real-world NGO with a focus on performance, scalability, and user experience.
+
+### 💼 Responsibilities
+
+- ⚛️ Developed the complete frontend using **React.js**, **Vite**, and **Tailwind CSS**
+- 🖥️ Built and maintained the backend using **Node.js**, **Express.js**, and **MongoDB Atlas**
+- 💳 Integrated **Razorpay Payment Gateway** for secure online donations
+- 📧 Implemented automated email notifications using **Nodemailer**
+- ☁️ Deployed and managed the application on **Vercel** (Frontend) and **Render** (Backend)
+- 🔍 Configured **Google Search Console** and submitted XML sitemaps
+- 📈 Implemented **SEO best practices**, including Meta Tags, Open Graph, Structured Data (JSON-LD), Robots.txt, and Sitemap.xml
+- ⚡ Optimized application performance, responsiveness, and accessibility
+- 🔄 Currently responsible for feature enhancements, deployment, monitoring, bug fixes, and production maintenance
+
+### 🛠️ Tech Stack
+
+`React.js` • `Vite` • `Tailwind CSS` • `Node.js` • `Express.js` • `MongoDB Atlas` • `Razorpay` • `Nodemailer` • `Vercel` • `Render`
+
+**Role:** Core Contributor (Frontend & Backend) | Deployment & Production Maintenance
 
 ---
 
@@ -92,8 +115,120 @@ Building scalable web applications with modern technologies while solving comple
 - Backtracking
 
 ---
+### 🚀 Current Highlights
 
+- 🌐 Core Contributor (Frontend & Backend) of the production-ready **Bhera Society** website
+- ☁️ Responsible for deployment, production maintenance, monitoring, and continuous feature updates
+- 🔍 Implemented technical SEO including Google Search Console, Meta Tags, Open Graph, JSON-LD Structured Data, XML Sitemap, and Robots.txt
+- 💳 Integrated secure online payments with Razorpay and automated email workflows
+- 💻 Solved 500+ DSA problems across LeetCode and GeeksforGeeks
+- 🎯 Preparing for Software Engineering roles with a focus on scalable systems and full-stack development
 # 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## 🌐 Bhera Society Website
+### Core Contributor (Frontend & Backend)
+
+A production-ready NGO platform built using the MERN Stack, designed for scalability, responsiveness, and seamless user experience.
+
+### ✨ Key Contributions
+
+- 💻 Developed the complete React frontend
+- ⚙️ Built the Node.js & Express backend
+- 🗄️ Designed MongoDB database architecture
+- 📧 Implemented Email Notifications using Nodemailer
+- 💳 Integrated Razorpay Payment Gateway
+- 📱 Fully Responsive across all devices
+- ☁️ Deployed on Vercel & Render
+- 🔍 Implemented SEO & Google Indexing
+- 🚀 Optimized performance and scalability
+
+**Tech Stack**
+
+`React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Razorpay` `Nodemailer` `Vercel` `Render`
+
+</td>
+
+<td width="50%">
+
+## 🏥 Hospital Management System
+
+A scalable MERN application for hospital management.
+
+### Features
+
+- Appointment Booking
+- Doctor Management
+- Patient Dashboard
+- Authentication
+- MongoDB Atlas
+- Cloud Deployment
+
+**Tech Stack**
+
+`React`
+`Node.js`
+`Express`
+`MongoDB`
+`Tailwind`
+
+</td>
+</tr>
+
+<tr>
+
+<td>
+
+## 💰 Expense Tracker
+
+A personal finance management application.
+
+### Features
+
+- Authentication
+- CRUD Operations
+- Monthly Analytics
+- Dashboard
+- Responsive UI
+
+**Tech Stack**
+
+`React`
+`Node.js`
+`Express`
+`MongoDB`
+
+</td>
+
+<td>
+
+## ✅ Task Manager
+
+A productivity application using REST APIs.
+
+### Features
+
+- JWT Authentication
+- CRUD
+- Responsive UI
+- MongoDB
+- RESTful APIs
+
+**Tech Stack**
+
+`React`
+`Node.js`
+`Express`
+`MongoDB`
+
+</td>
+
+</tr>
+</table>
+
 
 ## 🏥 Hospital Management System
 
