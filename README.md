@@ -340,3 +340,8 @@ while(!success)
 <img src="https://komarev.com/ghpvc/?username=upender-01&style=for-the-badge&color=0e75b6"/>
 
 </div>
+## 📂 All Repositories
+
+<a href="https://github.com/upender-01?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=upender-01&show_icons=true&theme=github_dark"/>
+</a>
