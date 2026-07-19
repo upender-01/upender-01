@@ -1,27 +1,207 @@
-# 💫 About Me:
-I'm Bhukya Upendar, a Full-Stack Developer and Electronics Engineering student at IIT (BHU) Varanasi (2023-2027). I am passionate about building scalable web applications and solving complex algorithmic challenges.  🚀 Technical ExpertiseLanguages: C++, JavaScript, C, Python, SQL   Frontend: React.js, Tailwind CSS, Vite, HTML/CSS   Backend: Node.js, Express.js   Database: MongoDB (Atlas), SQL   Core CS: Data Structures & Algorithms, OOP, DBMS   🛠️ What I'm working onI focus on building full-stack solutions that bridge the gap between intuitive design and robust architecture. My recent projects include:Hospital Management System: A full-stack platform with cloud-hosted backend and MongoDB integration.  Personal Expense Tracker: A MERN stack application for financial management.  Task Manager: A CRUD-based productivity tool utilizing RESTful APIs.  Netflix Clone: A pixel-perfect frontend project focusing on responsive UI/UX.  📊 Coding Stats500+ Problems Solved across LeetCode and GeeksforGeeks, focusing on optimized solutions and efficient algorithms.  Active contributor to the MERN ecosystem.🤝 Let's Connect!LinkedIn: [Bhukya upender]   Email: bhukyaupender804@gmail.com   "I believe in writing clean, modular code that is both maintainable and scalable." 
+<div align="center">
 
+# Hi 👋, I'm Bhukya Upendar
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/upender-bhukya-2767472a8/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhukyaupender804@gmail.com) 
+### Full Stack Developer | MERN Stack | C++ | IIT (BHU) Varanasi
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=upender-01&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=upender-01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=upender-01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;500%2B+DSA+Problems+Solved;Always+Learning+New+Technologies" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=upender-01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p>
+Building scalable web applications with modern technologies while solving complex algorithmic problems.
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p>
+<a href="https://github.com/upender-01">
+<img src="https://img.shields.io/github/followers/upender-01?label=Followers&style=for-the-badge">
+</a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=upender-01&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<a href="https://github.com/upender-01?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge">
+</a>
+
+</p>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=upender-01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+🎓 B.Tech Electronics & Communication Engineering  
+📍 IIT (BHU) Varanasi (2023–2027)
+
+💻 Passionate about
+
+- Full Stack Development
+- Scalable Backend Systems
+- Data Structures & Algorithms
+- System Design
+- Clean Architecture
+
+🚀 Currently
+
+- Building scalable MERN applications
+- Practicing DSA every day
+- Preparing for Software Engineering roles
+
+---
+
+# 🚀 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,sql"/>
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,vite,bootstrap"/>
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma,vscode,postman"/>
+</p>
+
+---
+
+# 📈 Coding Journey
+
+✔️ 500+ Problems Solved
+
+✔️ Strong in
+
+- Arrays
+- Strings
+- Binary Search
+- Graphs
+- Trees
+- DP
+- Greedy
+- Segment Tree
+- Trie
+- Backtracking
+
+---
+
+# 🚀 Featured Projects
+
+## 🏥 Hospital Management System
+
+Full Stack MERN Application
+
+✨ Features
+
+- Appointment Booking
+- Authentication
+- Admin Dashboard
+- MongoDB Atlas
+- Cloud Hosted Backend
+
+---
+
+## 💰 Expense Tracker
+
+A complete MERN application for managing personal finance.
+
+- CRUD Operations
+- Charts
+- Monthly Analytics
+- Authentication
+
+---
+
+## ✅ Task Manager
+
+REST API based productivity application.
+
+- JWT Authentication
+- CRUD
+- Responsive UI
+- MongoDB
+
+---
+
+## 🎬 Netflix Clone
+
+Frontend clone built with React + Tailwind CSS.
+
+- Responsive
+- Modern UI
+- Fast Performance
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=upender-01&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=upender-01&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=upender-01&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=upender-01&theme=algolia&no-frame=true&margin-w=8"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/upender-bhukya-2767472a8">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:bhukyaupender804@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+```cpp
+while(!success)
+{
+    learn();
+    code();
+    improve();
+}
+```
+
+---
+
+<div align="center">
+
+### "First, solve the problem. Then, write clean and scalable code."
+
+<img src="https://komarev.com/ghpvc/?username=upender-01&style=for-the-badge&color=0e75b6"/>
+
+</div>
